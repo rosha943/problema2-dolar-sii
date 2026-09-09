@@ -1,0 +1,3 @@
+sig,p_inicial_real,p_final_real,p_inicial_aprox,p_final_aprox,delta_real,delta_aprox,ea_delta,er_delta_pct,concluyente
+2,875.66,874.67,880.0,870.0,-0.9900000000000091,-10.0,9.009999999999991,90.1,True
+3,875.66,874.67,876.0,875.0,-0.9900000000000091,-1.0,0.6700000000000728,67.0,True
