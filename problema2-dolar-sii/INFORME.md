@@ -1,6 +1,7 @@
 # INFORME — La ganancia que se evapora
 
-**Curso:** Laboratorio Computación Numérica 1 — UCM  
+**Curso:** Laboratorio Computación Numérica 1 — UCM
+**Integrantes:** Marcos Hoces y Rosario Torres
 **Tema:** Cancelación y propagación del error con dólar observado SII (2022–2025)  
 **Datos:** `data/dolar_observado_sii_2022_2025.csv` (48 meses, 2022-01 a 2025-12)  
 **Parámetros oficiales:** 2 cifras significativas totales, base 10, `M = 1.000.000 CLP` (`src/errores.py:10`).  
@@ -178,4 +179,3 @@ Pérdida de ~10 cifras en `float32` por mantisa de 24 bits. Es el mismo mecanism
 * Tablas: `outputs/errores_mensuales_2sig.csv`, `outputs/anualidad_2sig.csv`, `outputs/delta_mes_a_mes_2sig.csv`, `outputs/rentabilidad_desde_minimo_2sig.csv`, `outputs/A3_cancelacion_diciembre.csv`, `outputs/ejemplos_compra_venta.csv`, `outputs/B4_float_comparacion.csv`
 * Código: `src/cargar_datos.py:15`, `src/errores.py:13`, `src/anualidad.py:15`, `src/punto_flotante.py:30`
 * Gráficos: `graficos/01_*.png` a `05_*.png`
-
