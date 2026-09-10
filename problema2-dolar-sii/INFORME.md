@@ -1,8 +1,8 @@
 # INFORME — La ganancia que se evapora
 
 **Curso:** Laboratorio Computación Numérica 1 — UCM
-**Integrantes:** Marcos Hoces y Rosario Torres
 
+**Integrantes:** Marcos Hoces y Rosario Torres
 **Tema:** Cancelación y propagación del error con dólar observado SII (2022–2025)  
 **Datos:** `data/dolar_observado_sii_2022_2025.csv` (48 meses, 2022-01 a 2025-12)  
 **Parámetros oficiales:** 2 cifras significativas totales, base 10, `M = 1.000.000 CLP` (`src/errores.py:10`).  
